@@ -16,7 +16,7 @@ description              : &description "He(Gabby) AN's academic portfolio"   # 
 url                      : https://GABBY667.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "GABBY667/GABBY667.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "He(Gabby) AN"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Bachelor of Mechanical design manufacturing and Automation "/n "Spend your life in your own way."
+  bio              : "Bachelor of Mechanical design manufacturing and Automation 'Spend your life in your own way.'"
   location         : "Shanghai, China"
   employer         : "East China University of Science and Technology"
   uri              : # URL
